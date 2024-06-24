@@ -216,3 +216,4 @@ This section contains helpful links to related content. It isn't required, so co
 
 - This discussion goes through the [usages of prime numbers in hash functions](https://stackoverflow.com/questions/299304/why-does-javas-hashcode-in-string-use-31-as-a-multiplier/299748).
 - The [pigeonhole principle](https://en.wikipedia.org/wiki/Pigeonhole_principle) mathematically guarantees collisions when there are more nodes than boxes.
+- This [video by Roadmap.sh](https://youtu.be/jalSiaIi8j4?si=bbMjWks-nNg8SYQL&t=248) provides a great summary about Hash Maps, with great diagrams.
